@@ -29,9 +29,7 @@ const Home = () => {
       <MapLR />
 
       <ImgLR
-        customStyles={{
-          paddingTop",
-        }}
+        customStyles={{}}
         title={"we saved you a seat"}
         content={
           "Relax on our outdoor patio or chill in our indoor seating area. Enjoy our rotating art exhibits and live entertainment from local artists"
